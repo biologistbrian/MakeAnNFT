@@ -1,4 +1,6 @@
-# kandinsky
-a copy of
-[chrome-music-lab-making-kandinsky](https://musiclab.chromeexperiments.com/kandinsky-service/) 
-(Active Theory Created), add recording video.
+Brian's Kadinsky Kopy:
+
+git clone
+npm install
+npm install http-server -g
+http-server
